@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="time_difference_short_days"><item quantity="one">%d d</item>
+<item quantity="other">%d d</item>
+</plurals>
+    <plurals name="time_difference_short_hours"><item quantity="one">%d h</item>
+<item quantity="other">%d h</item>
+</plurals>
+    <plurals name="time_difference_short_minutes"><item quantity="one">%d m</item>
+<item quantity="other">%d m</item>
+</plurals>
+    <plurals name="time_difference_words_days"><item quantity="one">%d dia</item>
+<item quantity="other">%d dias</item>
+</plurals>
+    <plurals name="time_difference_words_hours"><item quantity="one">%d hora</item>
+<item quantity="other">%d horas</item>
+</plurals>
+    <plurals name="time_difference_words_minutes"><item quantity="one">%d min</item>
+<item quantity="other">%d min</item>
+</plurals>
+    <string name="a11y_no_data">Não existem dados</string>
+    <string name="a11y_no_permission">Sem autorização de acesso aos dados</string>
+    <string name="a11y_template_range">%1$f de %2$f</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Função +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partilhar com a aplicação <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string name="buttons_rect_bottom_center">Parte inferior</string>
+    <string name="buttons_rect_bottom_left">Parte inferior esquerda</string>
+    <string name="buttons_rect_bottom_right">Parte inferior direita</string>
+    <string name="buttons_rect_left_bottom">Parte inferior, lado esquerdo</string>
+    <string name="buttons_rect_left_center">No centro, à esquerda</string>
+    <string name="buttons_rect_left_top">Parte superior, lado esquerdo</string>
+    <string name="buttons_rect_right_bottom">Parte inferior, lado direito</string>
+    <string name="buttons_rect_right_center">No centro, à direita</string>
+    <string name="buttons_rect_right_top">Parte superior, lado direito</string>
+    <string name="buttons_rect_top_center">Parte superior</string>
+    <string name="buttons_rect_top_left">Parte superior esquerda</string>
+    <string name="buttons_rect_top_right">Parte superior direita</string>
+    <string name="buttons_round_bottom_center">Parte inferior</string>
+    <string name="buttons_round_bottom_left">Parte inferior esquerda</string>
+    <string name="buttons_round_bottom_left_lower">Parte inferior esquerda, em baixo</string>
+    <string name="buttons_round_bottom_left_upper">Parte inferior esquerda, em cima</string>
+    <string name="buttons_round_bottom_right">Parte inferior direita</string>
+    <string name="buttons_round_bottom_right_lower">Parte inferior direita, em baixo</string>
+    <string name="buttons_round_bottom_right_upper">Parte inferior direita, em cima</string>
+    <string name="buttons_round_center_left">No centro, à esquerda</string>
+    <string name="buttons_round_center_right">No centro, à direita</string>
+    <string name="buttons_round_top_center">Parte superior</string>
+    <string name="buttons_round_top_left">Parte superior esquerda</string>
+    <string name="buttons_round_top_left_lower">Parte superior esquerda, em baixo</string>
+    <string name="buttons_round_top_left_upper">Parte superior esquerda, em cima</string>
+    <string name="buttons_round_top_right">Parte superior direita</string>
+    <string name="buttons_round_top_right_lower">Parte superior direita, em baixo</string>
+    <string name="buttons_round_top_right_upper">Parte superior direita, em cima</string>
+    <string name="dismiss_overlay_button_label">Sair</string>
+    <string name="generic_cancel">Cancelar</string>
+    <string name="generic_yes">Sim</string>
+    <string name="navigation_drawer_content_description">Gaveta de navegação</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="time_difference_now">Agora</string>
+    <string name="time_difference_short_days_and_hours">%1$s %2$s﻿</string>
+    <string name="time_difference_short_hours_and_minutes">%1$s %2$s</string>
+</resources>

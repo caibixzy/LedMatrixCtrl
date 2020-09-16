@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:id="@+id/textspeed"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="显示速度：" />
+
+        <SeekBar
+            android:id="@+id/speed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left">
+
+        <TextView
+            android:id="@+id/textintensity"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="显示亮度：" />
+
+        <SeekBar
+            android:id="@+id/intensity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/generated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示内容设置"/>
+    <Button
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="背景设置"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/offline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="离线显示"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="time_difference_short_days"><item quantity="one">%d д</item>
+<item quantity="few">%d д</item>
+<item quantity="many">%d д</item>
+<item quantity="other">%d д</item>
+</plurals>
+    <plurals name="time_difference_short_hours"><item quantity="one">%d ч</item>
+<item quantity="few">%d ч</item>
+<item quantity="many">%d ч</item>
+<item quantity="other">%d ч</item>
+</plurals>
+    <plurals name="time_difference_short_minutes"><item quantity="one">%d м</item>
+<item quantity="few">%d м</item>
+<item quantity="many">%d м</item>
+<item quantity="other">%d м</item>
+</plurals>
+    <plurals name="time_difference_words_days"><item quantity="one">%d дн.</item>
+<item quantity="few">%d дн.</item>
+<item quantity="many">%d дн.</item>
+<item quantity="other">%d дн.</item>
+</plurals>
+    <plurals name="time_difference_words_hours"><item quantity="one">%d ч.</item>
+<item quantity="few">%d ч.</item>
+<item quantity="many">%d ч.</item>
+<item quantity="other">%d ч.</item>
+</plurals>
+    <plurals name="time_difference_words_minutes"><item quantity="one">%d мин.</item>
+<item quantity="few">%d мин.</item>
+<item quantity="many">%d мин.</item>
+<item quantity="other">%d мин.</item>
+</plurals>
+    <string name="a11y_no_data">Нет данных</string>
+    <string name="a11y_no_permission">Нет разрешения на доступ к данным</string>
+    <string name="a11y_template_range">%1$f, всего %2$f</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Открыть доступ приложению \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="buttons_rect_bottom_center">Внизу</string>
+    <string name="buttons_rect_bottom_left">Внизу слева</string>
+    <string name="buttons_rect_bottom_right">Внизу справа</string>
+    <string name="buttons_rect_left_bottom">Внизу, левая сторона</string>
+    <string name="buttons_rect_left_center">В центре слева</string>
+    <string name="buttons_rect_left_top">Вверху, левая сторона</string>
+    <string name="buttons_rect_right_bottom">Внизу, правая сторона</string>
+    <string name="buttons_rect_right_center">В центре справа</string>
+    <string name="buttons_rect_right_top">Вверху, правая сторона</string>
+    <string name="buttons_rect_top_center">Вверху</string>
+    <string name="buttons_rect_top_left">Вверху слева</string>
+    <string name="buttons_rect_top_right">Вверху справа</string>
+    <string name="buttons_round_bottom_center">Внизу</string>
+    <string name="buttons_round_bottom_left">Внизу слева</string>
+    <string name="buttons_round_bottom_left_lower">Внизу слева, ниже</string>
+    <string name="buttons_round_bottom_left_upper">Внизу слева, выше</string>
+    <string name="buttons_round_bottom_right">Внизу справа</string>
+    <string name="buttons_round_bottom_right_lower">Внизу справа, ниже</string>
+    <string name="buttons_round_bottom_right_upper">Внизу справа, выше</string>
+    <string name="buttons_round_center_left">В центре слева</string>
+    <string name="buttons_round_center_right">В центре справа</string>
+    <string name="buttons_round_top_center">Вверху</string>
+    <string name="buttons_round_top_left">Вверху слева</string>
+    <string name="buttons_round_top_left_lower">Вверху слева, ниже</string>
+    <string name="buttons_round_top_left_upper">Вверху слева, выше</string>
+    <string name="buttons_round_top_right">Вверху справа</string>
+    <string name="buttons_round_top_right_lower">Вверху справа, ниже</string>
+    <string name="buttons_round_top_right_upper">Вверху справа, выше</string>
+    <string name="dismiss_overlay_button_label">Выйти</string>
+    <string name="generic_cancel">Отмена</string>
+    <string name="generic_yes">Да</string>
+    <string name="navigation_drawer_content_description">Открыта панель навигации</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="time_difference_now">Сейчас</string>
+    <string name="time_difference_short_days_and_hours">%1$s %2$s﻿</string>
+    <string name="time_difference_short_hours_and_minutes">%1$s %2$s﻿</string>
+</resources>
